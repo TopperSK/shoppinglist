@@ -5,3 +5,4 @@
  oranges
  eggplants
  english walnuts
+ apples
