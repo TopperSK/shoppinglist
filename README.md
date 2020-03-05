@@ -1,2 +1,6 @@
 # shoppinglist
-my first shopping list
+ this is my first shopping list:
+ 
+ banana
+ oranges
+ eggplants
